@@ -4,4 +4,6 @@
 Results of sensitivity and dimensionality analyses
 
 For more details on the methods and how the data is generated, please check the following reference:
-- Berk Onat, Christoph Ortner, James R. Kermode, 	[arXiv:2006.01915 (2020)](https://arxiv.org/abs/2006.01915)
+
+Citation:
+> Berk Onat, Christoph Ortner, James R. Kermode, "Sensitivity and Dimensionality of Atomic Environment Representations used for Machine Learning Interatomic Potentials", J. Them. Phys. 153, (2020) doi:10.1063/5.0016005 [DOI](https://doi.org/10.1063/5.0016005)
