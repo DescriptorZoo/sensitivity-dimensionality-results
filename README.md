@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/296652503.svg)](https://zenodo.org/badge/latestdoi/296652503)
+
 # sensitivity-dimensionality-results
 Results of sensitivity and dimensionality analyses
 
